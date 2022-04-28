@@ -1,0 +1,15 @@
+{
+  "name": "algorithms-and-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Viktor Ilchuk",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "jest": "^28.0.1"
+  }
+}
